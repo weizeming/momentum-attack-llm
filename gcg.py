@@ -1,10 +1,3 @@
-"""
-Use FastChat to evaluate  with Hugging Face generation APIs.
-
-Usage:
-python3 -m fastchat.serve.huggingface_api --model lmsys/vicuna-7b-v1.3
-python3 -m fastchat.serve.huggingface_api --model lmsys/fastchat-t5-3b-v1.0
-"""
 import argparse
 import os
 import json
