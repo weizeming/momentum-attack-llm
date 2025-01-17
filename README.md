@@ -1,14 +1,11 @@
 # Boosting Jailbreak Attack with Momentum
+This is the official implementation of the paper [Boosting Jailbreak Attack with Momentum](https://openreview.net/pdf?id=WCar0kfHCF), which is accepted by **ICLR 2024 Workshop on Reliable and Responsible Foundation Models** and **ICASSP 2025**.
 
-## ICLR 2024 Workshop on Reliable and Responsible Foundation Models
-
-w/ [Yihao Zhang](https://zhang-yihao.github.io), [Zeming Wei](https://weizeming.github.io) ${}^{\dagger}$.
+Authors: [Yihao Zhang](https://zhang-yihao.github.io), [Zeming Wei](https://weizeming.github.io) ${}^{\dagger}$.
 
 ${}^{\dagger}$: Correspondence to <weizeming@stu.pku.edu.cn>.
 
-This is the official implementation of the paper [Boosting Jailbreak Attack with Momentum](https://openreview.net/pdf?id=WCar0kfHCF).
 
-This repository is under construction.
 
 ### Citation
 
@@ -21,3 +18,10 @@ booktitle={ICLR 2024 Workshop on Reliable and Responsible Foundation Models},
 year={2024}
 }
 ```
+or
+@inproceedings{zhang2025boosting,
+title={Boosting Jailbreak Attack with Momentum},
+author={Yihao Zhang and Zeming Wei},
+booktitle={ICASSP},
+year={2025}
+}
